@@ -6,7 +6,7 @@
 <tr>
   <td valign="center">
     🎓 I’m currently learning <b>Distributed Systems and Artificial Intelligenceg</b>.<br>
-    🎯 I’m looking for <b>>new experiences and opportunities in IT field</b>.<br>
+    🎯 I’m looking for <b>new experiences and opportunities in IT field</b>.<br>
     ✨ Ask me about </b>AI<b>.
    </td>
   
@@ -17,6 +17,7 @@
 <a href="https://stackoverflow.com/users/18048518/hicham-el-moudni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18048518/hicham-el-moudni" height="30" width="40" /></a>
 <a href="https://instagram.com/el_moudnii_hicham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_moudnii_hicham" height="30" width="40" /></a>
 </p>
+     <p> </p><p> </p><p> </p>
    </td>
 </tr>
 </table></br>
