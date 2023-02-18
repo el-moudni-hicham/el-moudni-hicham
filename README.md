@@ -29,7 +29,15 @@
 </tr>
 </table></br>
 
+<h3 align="left">Stats:</h3>
+<p align="center"> 
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="el-moudni-hicham" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="el-moudni-hicham" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=el-moudni-hicham&theme=highcontrast&hide_border=true" alt="el-moudni-hicham"/>
+</p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=el-moudni-hicham&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Languages and Tools:</h3>
