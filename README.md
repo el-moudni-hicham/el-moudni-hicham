@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HICHAM EL MOUDNI</h1>
 <h3 align="center">Distributed Systems and Artificial Intelligence Master's Degree Student</h3>
-<center> [![](https://visitcount.itsvg.in/api?id=el-moudni-hicham&icon=0&color=0)](https://visitcount.itsvg.in) </center>
+[![](https://visitcount.itsvg.in/api?id=el-moudni-hicham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Distributed Systems and Artificial Intelligence**
 
