@@ -5,14 +5,11 @@
 <table>
 <tr>
   <td valign="center">
-    
-    🌱 I’m currently learning <b>Distributed Systems and Artificial Intelligence</b>.<br>
-
-    🤝 I’m looking for <b>new experiences and opportunities</b>.<br>
-
-    💬 Ask me about <b>AI</b>
-    
+    🎓 I’m currently learning <b>Distributed Systems and Artificial Intelligenceg</b>.<br>
+    🎯 I’m looking for <b>>new experiences and opportunities in IT field</b>.<br>
+    ✨ Ask me about </b>AI<b>.
    </td>
+  
    <td valign="center">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
