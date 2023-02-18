@@ -6,11 +6,11 @@
 <tr>
   <td valign="center">
     
-    - 🌱 I’m currently learning **Distributed Systems and Artificial Intelligence**
+    🌱 I’m currently learning <b>Distributed Systems and Artificial Intelligence</b>.<br>
 
-    - 🤝 I’m looking for **or new experiences and opportunities**
+    🤝 I’m looking for <b>new experiences and opportunities</b>.<br>
 
-    - 💬 Ask me about **AI**
+    💬 Ask me about <b>AI</b>
     
    </td>
    <td valign="center">
