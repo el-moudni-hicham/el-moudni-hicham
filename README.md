@@ -5,6 +5,7 @@
 <table>
 <tr>
   <td valign="center">
+    
 - 🌱 I’m currently learning **Distributed Systems and Artificial Intelligence**
 
 - 🤝 I’m looking for **or new experiences and opportunities**
@@ -14,6 +15,7 @@
 - 💬 Ask me about **AI**
 
 - 📫 How to reach me **hichamelmoudni7@gmail.com**
+    
    </td>
    <td valign="center">
     <h3 align="left">Connect with me:</h3>
