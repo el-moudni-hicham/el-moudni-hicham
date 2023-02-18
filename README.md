@@ -9,11 +9,8 @@
 
     - 🤝 I’m looking for **or new experiences and opportunities**
 
-    - 👨‍💻 All of my projects are available at [https://github.com/el-moudni-hicham](https://github.com/el-moudni-hicham)
-
     - 💬 Ask me about **AI**
-
-    - 📫 How to reach me **hichamelmoudni7@gmail.com**
+    
    </td>
    <td valign="center">
     <h3 align="left">Connect with me:</h3>
@@ -25,7 +22,8 @@
    </td>
 </tr>
 </table></br>
-
+- 👨‍💻 All of my projects are available at [https://github.com/el-moudni-hicham](https://github.com/el-moudni-hicham)
+- 📫 How to reach me **hichamelmoudni7@gmail.com**
 <table>
 <tr>
   <td valign="center">
