@@ -19,7 +19,6 @@
 </tr>
 </table></br>
 - 👨‍💻 All of my projects are available at [https://github.com/el-moudni-hicham](https://github.com/el-moudni-hicham)
-
 - 📫 How to reach me **hichamelmoudni7@gmail.com**
 
 <h3 align="left">Languages and Tools :</h3>
@@ -28,9 +27,6 @@
 <h3 align="left">Stats :</h3>
 <p align="center"> 
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="el-moudni-hicham" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="el-moudni-hicham" />
-  <p>
-&nbsp;
-</p>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=el-moudni-hicham&theme=highcontrast&hide_border=true" alt="el-moudni-hicham"/>
 </p>
 <p>
