@@ -57,4 +57,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=el-moudni-hicham&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+        <img src="https://user-images.githubusercontent.com/59446813/158016167-812d8843-3fb2-468b-81ba-989f46edf665.gif" alt="learning new things" />
+      </p>
+
 
