@@ -1,8 +1,7 @@
-
-
+<div class = "container" style = "width: 100%">
 <div >
-<img alt="Coder GIF" width="10%" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h1 align="center">Hi 👋, I'm HICHAM EL MOUDNI</h1>
+  <img alt="Coder GIF" width="8%" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h3 align="center">Distributed Systems and Artificial Intelligence Master's Degree Student</h3>
 </div>
 <div >
@@ -64,7 +63,7 @@
 &nbsp;
 </p>
 
-<h3 align="left">📊Activity graph :</h3>
+<h3 align="left">📊 Activity graph :</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=el-moudni-hicham&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -73,3 +72,4 @@
       </p>
 
 
+</div>
