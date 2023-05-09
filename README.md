@@ -36,12 +36,12 @@
 <tr>
 <td >
           <p align="center">
-             <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="el-moudni-hicham" />
+             <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="el-moudni-hicham" />
             </p>
  </td>
  <td >
           <p align="center">
-             <img width="65%" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="el-moudni-hicham" />
+             <img width="82%" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="el-moudni-hicham" />
             </p>
  </td>
 
