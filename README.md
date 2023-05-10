@@ -1,9 +1,8 @@
 <div class = "container" style = "width: 100%">
-<div >
+
 <h1 align="center">Hi 👋, I'm HICHAM EL MOUDNI</h1>
-  <img alt="Coder GIF" width="8%" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h3 align="center">Distributed Systems and Artificial Intelligence Master's Degree Student</h3>
-</div>
+ 
 <div >
   <br>
   </div >
@@ -70,6 +69,8 @@
 <p align="center">
         <img src="https://user-images.githubusercontent.com/59446813/158016167-812d8843-3fb2-468b-81ba-989f46edf665.gif" alt="learning new things" />
       </p>
+  
+  <img alt="Coder GIF" width="15%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
 
 </div>
