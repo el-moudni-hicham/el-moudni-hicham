@@ -15,7 +15,7 @@
     ✨ Ask me about </b>AI<b>.
    </td>
    <td valign="center">
-    <h3 align="left">🌐 Connect with me:</h3>
+    <h3 align="left">🌐 Connect with me :</h3>
     <p align="left">
   <a href="https://linkedin.com/in/hicham-el-moudni-00ab80228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hicham-el-moudni-00ab80228/" height="30" width="40" /></a>  &nbsp;  &nbsp;  &nbsp;
 <a href="https://stackoverflow.com/users/18048518/hicham-el-moudni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18048518/hicham-el-moudni" height="30" width="40" /></a>  &nbsp;  &nbsp;  &nbsp;
