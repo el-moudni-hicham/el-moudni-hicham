@@ -86,6 +86,8 @@
       </p>
   
   <img alt="Coder GIF" width="15%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
-
+  
+ ![snake gif](https://github.com/el-moudni-hicham/el-moudni-hicham/blob/output/github-contribution-grid-snake.gif)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=el-moudni-hicham&label=Profile%20views&color=0e75b6&style=flat" alt="el-moudni-hicham" /> </p>
 
 </div>
