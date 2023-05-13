@@ -1,5 +1,10 @@
 <div >
  
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+ 
+ 
  ![](https://komarev.com/ghpvc/?username=el-moudni-hicham&color=blue&style=flat-square)
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C++I'm+Hicham+El+Moudni;I'm+from+Morocco+;I'm+a+Software+Engineer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+DS+%26+AI+Master's+Student++%F0%9F%A4%96;Be+Welcome!+%E3%83%84)](https://git.io/typing-svg)
