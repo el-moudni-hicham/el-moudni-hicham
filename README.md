@@ -1,7 +1,7 @@
 <div class = "container" style = "width: 100%">
 
-<h1 align="center">Hi 👋, I'm HICHAM EL MOUDNI</h1>
-<h3 align="center">Distributed Systems and Artificial Intelligence Master's Degree Student</h3>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C++I'm+Hicham+El+Moudni;I'm+from+Morocco+;I'm+a+Software+Engineer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+DS+%26+AI+Master's+Student++%F0%9F%A4%96;Be+Welcome!+%E3%83%84)](https://git.io/typing-svg)
+ 
  
 <div >
   <br>
