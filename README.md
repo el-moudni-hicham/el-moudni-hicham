@@ -3,11 +3,9 @@
 </p>
 
 <br/>
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C++I'm+Hicham+El+Moudni;I'm+from+Morocco+;I'm+a+Software+Engineer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+DS+%26+AI+Master's+Student++%F0%9F%A4%96;Be+Welcome!+%E3%83%84)](https://git.io/typing-svg)
 
-<br/>
 <br/>
 
 <p align="center">
@@ -19,7 +17,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
     
@@ -28,7 +25,7 @@
     
 </p>
 
-<br/>
+
 <br/>
 
  <div align="center">
@@ -41,7 +38,7 @@
   </a>
 </div>
  
-<br/>
+
 <br/>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=el-moudni-hicham&theme=vue&bg_color=0d1117&border_color=0d1117&hide_border=true&line=18c964&point=403d3d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
