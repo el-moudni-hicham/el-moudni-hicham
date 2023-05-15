@@ -88,9 +88,7 @@
     <a href="#">
       <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-      </a> 
+   
   </p>
 </div>
 
