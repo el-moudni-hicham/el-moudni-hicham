@@ -96,15 +96,18 @@
 
 
 
- <div align="center">
+<div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=vue-dark&bg_color=0d1117&border_color=0d1117&color=29d64b"/>
+    <img height="240rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=el-moudni-hicham&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-moudni-hicham&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_color=0d1117&color=29d64b"/>
+    <img width="250rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-moudni-hicham&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
-</div>
+ <!-- <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-moudni-hicham&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+  </a>-->
+</div> 
  
  
 <br/>
