@@ -66,12 +66,6 @@
       <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo" height="40" width="50" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     </a>
     <a href="#">
